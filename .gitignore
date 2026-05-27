@@ -1,0 +1,39 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+dist/
+
+# Uploads / runtime
+uploads/
+uploads/resumes/
+uploads/profile_images/
+!uploads/.gitkeep
+
+# Database
+mysql_data/
+
+# Testing
+.pytest_cache/
+
+# Editors
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+ehthumbs.db
